@@ -63,7 +63,7 @@ export default {
 
 <style>
 body {
-  ubackground-color: #262626;
+  background-color: #262626;
 }
 
 #searchbar {
